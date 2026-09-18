@@ -1,314 +1,240 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=Saad%20Kashif&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=@w0tu&descSize=18&descColor=8b949e&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=w0tu@terminal:~$&fontSize=44&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Saad%20Kashif%20%7C%20Founder%20@%20The%20Codex%20Group&descSize=17&descColor=8b949e&descAlignY=58" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Founder+%40+The+Codex+Group;Democratizing+Technology+for+Everyone;AI+%26+Open+Source+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&background=161B2200&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=85&lines=%24+whoami+%E2%86%92+13-year-old+Founder+%40+The+Codex+Group;%24+cat+mission.txt+%E2%86%92+Democratizing+AI+for+everyone;%24+python3+sk-codex.py+%E2%86%92+Fully+offline+AI+assistant;%24+neofetch+%E2%86%92+Dubai%2C+UAE+%E2%80%A2+Neural+Engineer" alt="Terminal Typing SVG" />
+</a>
 
 <br/>
 
-[![Org](https://img.shields.io/badge/🏢_The_Codex_Group-161b22?style=flat&labelColor=161b22)](https://github.com/The-Codex-Group)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_UAE-161b22?style=flat&labelColor=161b22)
-&nbsp;
-![Age](https://img.shields.io/badge/🧑‍💻_13_years_old-161b22?style=flat&labelColor=161b22)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-238636?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/w0tu)
+[![Role](https://img.shields.io/badge/ROLE-Founder_%40_The_Codex_Group-6e40c9?style=flat-square)](https://github.com/The-Codex-Group)
+[![Location](https://img.shields.io/badge/LOCATION-Dubai,_UAE_🇦🇪-161b22?style=flat-square)](https://github.com/w0tu)
+[![Age](https://img.shields.io/badge/AGE-13_Years_Old-161b22?style=flat-square)](https://github.com/w0tu)
 
 <br/>
 
-<a href="https://github.com/w0tu"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/></a>
+<a href="https://github.com/w0tu">
+  <img src="https://img.shields.io/badge/Terminal-GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+</a>
 &nbsp;
-<a href="mailto:w0tu@outlook.com"><img src="https://img.shields.io/badge/Email-6e40c9?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/></a>
+<a href="mailto:w0tu@outlook.com">
+  <img src="https://img.shields.io/badge/Shell-Email-6e40c9?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=w0tu&color=6e40c9&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=w0tu&color=6e40c9&style=flat-square&label=SYS_HITS)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/w0tu?style=flat&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=Followers)
+![Followers](https://img.shields.io/github/followers/w0tu?style=flat-square&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=FOLLOWERS)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/w0tu?style=flat&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=Stars&affiliations=OWNER)
+![Stars](https://img.shields.io/github/stars/w0tu?style=flat-square&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=STARS&affiliations=OWNER)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=250&height=40&lines=About+Me" alt="About Me"/>
-</div>
+### 🖥️ `system_specs.sh --neofetch`
 
-<br/>
-
-Based in the UAE, I am the 13-year-old Founder of **The Codex Group**. We are a non-profit organization dedicated to democratizing technology by helping people.
-
-I build **open-source AI tools** that run on almost any computer — no expensive GPU or cloud API required. I believe everyone deserves access to powerful technology, regardless of their hardware or budget.
-
+```yaml
+╭────────────────────────────────────────────────────────────────────────────╮
+│   /\_/\    w0tu@codex-station                                             │
+│  ( o.o )   ------------------                                             │
+│   > ^ <    OS: Neural Linux / Dubai, UAE 🇦🇪                               │
+│            Host: The Codex Group (Non-Profit Tech Foundation)             │
+│            Kernel: Local-LLMs • Quantized Inference Engine v3.8          │
+│            Uptime: 13 Years                                               │
+│            Shell: zsh (Autonomous AI Agents)                              │
+│            Primary Binary: sk-codex (Offline Claude Code Alternative)     │
+│            Hardware: Consumer CPU (Zero Cloud GPU Required)               │
+│            Philosophy: "Democratize technology by empowering people"      │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
-💡 AI Tooling       → Building offline AI coding assistants and dev tools
-🔓 Open Source      → Free alternatives to proprietary developer tools  
-🌍 Community        → Non-profit focused on tech accessibility for all
+
+```text
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% Core Systems Operational
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92%  Local Inference Optimization
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 85%  Autonomous Agent Architecture
 ```
+
+---
+
+### 📂 `ls -la ~/about_me/`
+
+```bash
+$ cat ~/about_me/bio.md
+```
+
+> Based in the UAE, I am the **13-year-old Founder of The Codex Group**. We are a non-profit organization dedicated to democratizing technology by helping people.
+>
+> I build **open-source AI tools** that run on almost any computer — no expensive GPU or cloud API required. I believe everyone deserves access to powerful technology, regardless of their hardware or budget.
 
 <details>
-<summary>💬 Open To</summary>
-<br/>
+<summary><strong>📁 ~/about_me/manifesto.json (Click to expand)</strong></summary>
 
-- Open source collaborations on AI tooling
-- Non-profit technology partnerships
-- Developer community initiatives
-- Contributions to offline-first AI projects
-
+```json
+{
+  "developer": "Saad Kashif",
+  "handle": "w0tu",
+  "title": "Founder @ The Codex Group",
+  "mission": "Free, accessible AI tooling for underserved developers",
+  "focus_areas": [
+    "Offline-first LLM inference (Ollama / GGUF)",
+    "Lightweight autonomous developer agents",
+    "Open-source education and tooling"
+  ],
+  "open_to": [
+    "Open source AI collaboration",
+    "Non-profit developer initiatives",
+    "High-impact systems engineering"
+  ]
+}
+```
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Tech+Stack" alt="Tech Stack"/>
-</div>
-
-<br/>
+### 🛠️ `cat ~/environment/tech_stack.env`
 
 <table align="center">
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/><br/><sub>Bash</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br/><sub>HTML</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br/><sub>CSS</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/><sub><code>Python</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48" alt="TypeScript"/><br/><sub><code>TypeScript</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript"/><br/><sub><code>JavaScript</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/><br/><sub><code>Bash/Zsh</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br/><sub><code>Linux</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/><sub><code>Git</code></sub></td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br/><sub>Next.js</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br/><sub>Flask</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br/><sub><code>PyTorch</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br/><sub><code>TensorFlow</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/><sub><code>Docker</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br/><sub><code>FastAPI</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br/><sub><code>React</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind"/><br/><sub><code>Tailwind</code></sub></td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br/><sub>Linux</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br/><sub>VS Code</sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/><br/><sub>Redis</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/><br/><sub>SQLite</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="Actions"/><br/><sub>Actions</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="Postgres"/><br/><sub><code>PostgreSQL</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/><br/><sub><code>Redis</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/><br/><sub><code>SQLite</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="NodeJS"/><br/><sub><code>Node.js</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="Actions"/><br/><sub><code>CI/CD</code></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode"/><br/><sub><code>VS Code</code></sub></td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=350&height=40&lines=AI+%2F+ML+Expertise" alt="AI ML Expertise"/>
-</div>
-
-<br/>
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Local LLM Deployment | `████████████░` 95% | Ollama, llama.cpp, GGUF quantization, CPU inference |
-| Prompt Engineering | `███████████░░` 90% | System prompts, chain-of-thought, tool-use, agents |
-| AI Dev Tools | `████████████░` 95% | Code generation, AI assistants, offline agents |
-| NLP | `██████████░░░` 80% | Transformers, text generation, embeddings |
-| Model Optimization | `██████████░░░` 85% | Quantization, pruning, edge deployment |
-| MLOps | `█████████░░░░` 75% | Model serving, CI/CD for ML, versioning |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Featured+Projects" alt="Featured Projects"/>
-</div>
-
-<br/>
+### 📦 `git status --featured-repositories`
 
 <details open>
-<summary><strong>📦 sk-codex</strong> — Fully Offline Claude-Code Replica</summary>
+<summary><strong>📦 sk-codex — Fully Offline Claude-Code Replica</strong></summary>
 <br/>
 
-> a fully offline claude-code replica that uses ollama for coding and ai use runs on almost all computers even with no gpu
+```bash
+$ ./sk-codex --status
+[OK] Local LLM inference engine attached (Ollama)
+[OK] Memory foot-print: < 4GB RAM required
+[OK] GPU requirement: 0 (CPU-only GGUF quantized models)
+[OK] Data exfiltration risk: 0% (100% offline)
+```
 
-| | |
+| Metric | Spec |
 |:---|:---|
-| **Stack** | Python · Ollama · Local LLMs |
-| **Scale** | Works on machines with as little as 4GB RAM — no GPU needed |
-| **Performance** | Real-time code generation with local inference |
-| **Security** | 100% offline — zero data leaves the machine |
-| **Repo** | [![sk-codex](https://img.shields.io/badge/w0tu/sk--codex-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/w0tu/sk-codex) |
+| **Architecture** | Python • Ollama • Local LLMs • Terminal TUI |
+| **Hardware** | Zero GPU required — optimized for consumer CPUs |
+| **Privacy** | 100% Offline — zero telemetry leaves the machine |
+| **Repository** | [![sk-codex](https://img.shields.io/badge/w0tu/sk--codex-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/w0tu/sk-codex) |
 
-AI coding assistant that doesn't need cloud infrastructure. Uses quantized models through Ollama to deliver a Claude Code-like experience entirely on local hardware, no internet required.
+> An AI coding assistant that doesn't need cloud infrastructure. Uses quantized models through Ollama to deliver a Claude Code-like experience entirely on local hardware, no internet required.
 
 </details>
 
 <details>
-<summary><strong>🌍 The Codex Group</strong> — Open Source Non-Profit</summary>
+<summary><strong>🌍 The Codex Group — Open Source Non-Profit</strong></summary>
 <br/>
 
-> A non-profit organization dedicated to democratizing technology by helping people access powerful tools — for free, forever.
+```bash
+$ cat /etc/organization/codex_group.conf
+FOUNDATION = "The Codex Group"
+STATUS = "Non-Profit Organization"
+HEADQUARTERS = "UAE"
+CORE_MISSION = "Democratizing technology for everyone"
+LICENSE = "Open Source (Free Forever)"
+```
 
-| | |
+| Attribute | Details |
 |:---|:---|
 | **Mission** | Democratizing technology for everyone |
-| **Focus** | AI accessibility · Developer tools · Education |
-| **Impact** | Free, open-source software for underserved communities |
-| **Org** | [![The Codex Group](https://img.shields.io/badge/The--Codex--Group-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/The-Codex-Group) |
-
-Every tool we build is free, open-source, and designed to run on hardware people already own.
+| **Focus** | AI accessibility • Developer tools • Education |
+| **Organization** | [![The Codex Group](https://img.shields.io/badge/The--Codex--Group-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/The-Codex-Group) |
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Experience" alt="Experience"/>
-</div>
-
-<br/>
-
-**Founder** · The Codex Group `2024 — Present`
-
-> Non-profit focused on making technology accessible to everyone through open-source software.
-
-- Founded a non-profit dedicated to democratizing AI and development tools
-- Created **sk-codex** — fully offline AI coding assistant, no GPU or cloud APIs needed
-- Building open-source alternatives to expensive proprietary developer tools
-- Growing a community committed to accessible technology
-
-![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8b949e)
-![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat&logoColor=8b949e)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat&logo=git&logoColor=8b949e)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat&logo=linux&logoColor=8b949e)
-![Open Source](https://img.shields.io/badge/Open_Source-161b22?style=flat&logo=opensourceinitiative&logoColor=8b949e)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=300&height=40&lines=Achievements" alt="Achievements"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| Non-Profit Founder | Founded The Codex Group at age 13 |
-| sk-codex | Built a fully offline Claude Code alternative |
-| Open Source | All projects free and open-source, no paywalls |
-| Self-Taught | Mastered AI engineering and full-stack dev independently |
-| Accessibility | Building AI that runs on any machine, no GPU required |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=350&height=40&lines=GitHub+Analytics" alt="GitHub Analytics"/>
-</div>
-
-<br/>
+### 📊 `top --view analytics`
 
 <p align="center">
-<a href="https://github.com/w0tu">
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
-</a>
+  <a href="https://github.com/w0tu">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/w0tu">
-<img height="180" src="https://streak-stats.demolab.com?user=w0tu&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
+  <a href="https://github.com/w0tu">
+    <img height="180" src="https://streak-stats.demolab.com?user=w0tu&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/w0tu">
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</a>
+  <a href="https://github.com/w0tu">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=350&height=40&lines=GitHub+Trophies" alt="GitHub Trophies"/>
-</div>
-
-<br/>
+### 🏆 `cat ~/records/trophies.svg`
 
 <p align="center">
-<a href="https://github.com/w0tu">
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=w0tu&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</a>
+  <a href="https://github.com/w0tu">
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=w0tu&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Contribution+Snake" alt="Contribution Snake"/>
-</div>
-
-<br/>
+### 🐍 `tail -f /var/log/contribution_snake.game`
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/w0tu/w0tu/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/w0tu/w0tu/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
+
+### 📡 `ping -c 4 connection_endpoints`
+
+<p align="center">
+  <a href="mailto:w0tu@outlook.com">
+    <img src="https://img.shields.io/badge/TERMINAL-EMAIL-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/w0tu">
+    <img src="https://img.shields.io/badge/TERMINAL-GITHUB-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=300&height=40&lines=Current+Focus" alt="Current Focus"/>
-</div>
 
-<br/>
-
-```yaml
-learning:
-  - Advanced local LLM optimization and quantization
-  - Rust for high-performance systems programming
-  - Distributed systems and peer-to-peer networking
-
-building:
-  - sk-codex — offline AI coding assistant (active development)
-  - The Codex Group open-source ecosystem
-  - More accessible AI tools for everyone
-
-exploring:
-  - Edge AI deployment on consumer hardware
-  - WebAssembly for portable AI inference
-  - New ways to make technology accessible
-
-open_to:
-  - Open source collaborations on AI accessibility
-  - Non-profit partnerships in education technology
-  - Developer community building initiatives
+```text
+[exit 0] Process completed successfully. Connection to w0tu@terminal closed.
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=250&height=40&lines=Connect" alt="Connect"/>
-</div>
-
-<br/>
-
-<p align="center">
-<a href="mailto:w0tu@outlook.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/w0tu"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
-
-<div align="center">
-<br/>
-
-*"Technology is best when it brings people together."* — Matt Mullenweg
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%"/>
 
