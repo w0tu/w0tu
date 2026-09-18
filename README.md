@@ -129,6 +129,50 @@
 ### 📦 `git status --featured-repositories`
 
 <details open>
+<summary><strong>🤖 jarvis-ai-assistant — Tactical AI Terminal & Full-Duplex Voice Hub</strong></summary>
+<br/>
+
+```bash
+$ jarvis --status
+[OK] Groq hardware acceleration online (~250ms warm TTFT)
+[OK] Full-duplex interactive voice enabled (en-GB-RyanNeural)
+[OK] Physical microphone wake-word daemon active (Dynamic VAD)
+[OK] Local action dispatcher latency: 0.034 ms (34 µs)
+[OK] LAN smart hub live on http://0.0.0.0:8765 (QR pairing enabled)
+```
+
+| Metric | Spec |
+|:---|:---|
+| **Architecture** | Python • PipeWire • Groq Whisper Turbo • Edge Neural TTS • Flask HUD |
+| **Speed** | 0.034ms local actions • ~250ms cloud LLM inference |
+| **Voice** | Real-time continuous speech • British neural voice • Zero false triggers |
+| **Repository** | [![jarvis-ai-assistant](https://img.shields.io/badge/w0tu/jarvis--ai--assistant-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/w0tu/jarvis-ai-assistant) |
+
+> A personal tactical AI terminal and smart hub bringing the authentic J.A.R.V.I.S. experience to Linux desktop and mobile phones over LAN.
+
+</details>
+
+<details open>
+<summary><strong>🌐 free-apis — Directory & Live Query CLI for 1,870+ Public APIs</strong></summary>
+<br/>
+
+```bash
+$ free-apis call weather "Tokyo"
+Tokyo: ☀️ +22°C (Live zero-auth query executed in 210ms)
+```
+
+| Metric | Spec |
+|:---|:---|
+| **Coverage** | 1,870+ Free Public APIs indexed across 52 categories |
+| **Capabilities** | CLI search & filters • Zero-auth live callers (weather, crypto, forex, IP, jokes) |
+| **Integration** | Full Python SDK with local cached JSON catalog |
+| **Repository** | [![free-apis](https://img.shields.io/badge/w0tu/free--apis-c9d1d9?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/w0tu/free-apis) |
+
+> Instant search, exploration, and live execution tool for public APIs without API keys.
+
+</details>
+
+<details>
 <summary><strong>📦 sk-codex — Fully Offline Claude-Code Replica</strong></summary>
 <br/>
 
