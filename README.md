@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=w0tu@terminal:~$&fontSize=44&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Saad%20Kashif%20%7C%20Founder%20@%20The%20Codex%20Group&descSize=17&descColor=8b949e&descAlignY=58" width="100%"/>
-
-<br/>
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  🔴 🟡 🟢  w0tu@codex-station: ~ (zsh)                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&background=161B2200&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=85&lines=%24+whoami+%E2%86%92+13-year-old+Founder+%40+The+Codex+Group;%24+cat+mission.txt+%E2%86%92+Democratizing+AI+for+everyone;%24+python3+sk-codex.py+%E2%86%92+Fully+offline+AI+assistant;%24+neofetch+%E2%86%92+Dubai%2C+UAE+%E2%80%A2+Neural+Engineer" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=800&color=39D353&background=161B2200&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=%24+booting+codex_kernel.iso...+%5BOK%5D;%24+loading+offline_llm_models...%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%24+whoami+%E2%86%92+Saad+Kashif+%28Founder+%40+The+Codex+Group%29;%24+status+%E2%86%92+Democratizing+AI+on+consumer+hardware" alt="Terminal Loading Typing SVG" />
 </a>
 
 <br/>
 
-[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-238636?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/w0tu)
-[![Role](https://img.shields.io/badge/ROLE-Founder_%40_The_Codex_Group-6e40c9?style=flat-square)](https://github.com/The-Codex-Group)
-[![Location](https://img.shields.io/badge/LOCATION-Dubai,_UAE_🇦🇪-161b22?style=flat-square)](https://github.com/w0tu)
-[![Age](https://img.shields.io/badge/AGE-13_Years_Old-161b22?style=flat-square)](https://github.com/w0tu)
+[![Status](https://img.shields.io/badge/SYS_STATUS-ONLINE-238636?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/w0tu)
+[![Role](https://img.shields.io/badge/ROLE-Founder_%40_The_Codex_Group-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Codex-Group)
+[![Location](https://img.shields.io/badge/REGION-Dubai,_UAE_🇦🇪-161b22?style=flat-square)](https://github.com/w0tu)
+[![Age](https://img.shields.io/badge/OPERATOR-13_Years_Old-161b22?style=flat-square)](https://github.com/w0tu)
 
 <br/>
 
 <a href="https://github.com/w0tu">
-  <img src="https://img.shields.io/badge/Terminal-GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/TERMINAL-GITHUB-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="mailto:w0tu@outlook.com">
-  <img src="https://img.shields.io/badge/Shell-Email-6e40c9?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+  <img src="https://img.shields.io/badge/SHELL-EMAIL-21262d?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=w0tu&color=6e40c9&style=flat-square&label=SYS_HITS)
+![Profile Views](https://komarev.com/ghpvc/?username=w0tu&color=238636&style=flat-square&label=SYS_HITS)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/w0tu?style=flat-square&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=FOLLOWERS)
 &nbsp;
@@ -55,18 +57,14 @@
 ```
 
 ```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% Core Systems Operational
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92%  Local Inference Optimization
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 85%  Autonomous Agent Architecture
+[BOOT] Mounting local neural weights (Ollama)... [DONE]
+[SYNC] [████████████████████████████████████████] 100% Core Systems Up
+[LOAD] [████████████████████████████████░░░░░░░░] 85%  Autonomous Agent Mesh
 ```
 
 ---
 
-### 📂 `ls -la ~/about_me/`
-
-```bash
-$ cat ~/about_me/bio.md
-```
+### 📂 `cat ~/about_me/bio.md`
 
 > Based in the UAE, I am the **13-year-old Founder of The Codex Group**. We are a non-profit organization dedicated to democratizing technology by helping people.
 >
@@ -180,19 +178,19 @@ LICENSE = "Open Source (Free Forever)"
 
 <p align="center">
   <a href="https://github.com/w0tu">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=3fb950&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/w0tu">
-    <img height="180" src="https://streak-stats.demolab.com?user=w0tu&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=w0tu&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/w0tu">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </p>
 
@@ -220,7 +218,7 @@ LICENSE = "Open Source (Free Forever)"
 
 <p align="center">
   <a href="mailto:w0tu@outlook.com">
-    <img src="https://img.shields.io/badge/TERMINAL-EMAIL-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+    <img src="https://img.shields.io/badge/SHELL-EMAIL-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/w0tu">
@@ -233,9 +231,7 @@ LICENSE = "Open Source (Free Forever)"
 <div align="center">
 
 ```text
-[exit 0] Process completed successfully. Connection to w0tu@terminal closed.
+[exit 0] Process completed successfully. Connection to w0tu@codex closed.
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%"/>
 
 </div>
