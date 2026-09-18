@@ -215,7 +215,7 @@ Every tool we build is free, open-source, and designed to run on hardware people
 
 <p align="center">
 <a href="https://github.com/w0tu">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=w0tu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
 </a>
 </p>
 
@@ -227,7 +227,7 @@ Every tool we build is free, open-source, and designed to run on hardware people
 
 <p align="center">
 <a href="https://github.com/w0tu">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=w0tu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </a>
 </p>
 
@@ -241,7 +241,7 @@ Every tool we build is free, open-source, and designed to run on hardware people
 
 <p align="center">
 <a href="https://github.com/w0tu">
-<img src="https://github-profile-trophy.vercel.app/?username=w0tu&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=w0tu&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </a>
 </p>
 
