@@ -2,34 +2,34 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  🔴 🟡 🟢  w0tu@codex-station: ~ (zsh)                                       │
+│  🔴 🟡 🟢  bash — w0tu@station: ~ (80x24)                        [⚡ ONLINE] │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=800&color=39D353&background=161B2200&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=%24+booting+codex_kernel.iso...+%5BOK%5D;%24+loading+offline_llm_models...%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%24+whoami+%E2%86%92+Saad+Kashif+%28Founder+%40+The+Codex+Group%29;%24+status+%E2%86%92+Democratizing+AI+on+consumer+hardware" alt="Terminal Loading Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=800&color=38BDF8&background=161B2200&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=%3E+INIT_SYSTEM%3A+Loading+Codex+Neural+Engine+v3.8...+%5B100%25%5D;%3E+MOUNT%3A+Local+LLMs+%28Ollama%2FGGUF%29+attached+on+CPU...+%5BOK%5D;%3E+AUTH_USER%3A+Saad+Kashif+%E2%80%94+13+y%2Fo+Founder+%40+The+Codex+Group;%3E+CORE_DIRECTIVE%3A+Democratize+AI+tools+for+every+developer" alt="Terminal Loading Sequence" />
 </a>
 
 <br/>
 
-[![Status](https://img.shields.io/badge/SYS_STATUS-ONLINE-238636?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/w0tu)
+[![Status](https://img.shields.io/badge/KERNEL-ONLINE-238636?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/w0tu)
 [![Role](https://img.shields.io/badge/ROLE-Founder_%40_The_Codex_Group-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Codex-Group)
-[![Location](https://img.shields.io/badge/REGION-Dubai,_UAE_🇦🇪-161b22?style=flat-square)](https://github.com/w0tu)
+[![Region](https://img.shields.io/badge/LOCATION-Dubai,_UAE_🇦🇪-161b22?style=flat-square)](https://github.com/w0tu)
 [![Age](https://img.shields.io/badge/OPERATOR-13_Years_Old-161b22?style=flat-square)](https://github.com/w0tu)
 
 <br/>
 
 <a href="https://github.com/w0tu">
-  <img src="https://img.shields.io/badge/TERMINAL-GITHUB-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/TERMINAL-GITHUB-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="mailto:w0tu@outlook.com">
-  <img src="https://img.shields.io/badge/SHELL-EMAIL-21262d?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+  <img src="https://img.shields.io/badge/SHELL-EMAIL-21262d?style=for-the-badge&logo=microsoft-outlook&logoColor=58a6ff" alt="Email"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=w0tu&color=238636&style=flat-square&label=SYS_HITS)
+![Profile Hits](https://komarev.com/ghpvc/?username=w0tu&color=238636&style=flat-square&label=SYS_HITS)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/w0tu?style=flat-square&color=30363d&labelColor=161b22&logo=github&logoColor=c9d1d9&label=FOLLOWERS)
 &nbsp;
@@ -57,7 +57,7 @@
 ```
 
 ```text
-[BOOT] Mounting local neural weights (Ollama)... [DONE]
+[BOOT] Loading local neural weights (Ollama/GGUF)... [DONE]
 [SYNC] [████████████████████████████████████████] 100% Core Systems Up
 [LOAD] [████████████████████████████████░░░░░░░░] 85%  Autonomous Agent Mesh
 ```
@@ -218,11 +218,11 @@ LICENSE = "Open Source (Free Forever)"
 
 <p align="center">
   <a href="mailto:w0tu@outlook.com">
-    <img src="https://img.shields.io/badge/SHELL-EMAIL-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=c9d1d9" alt="Email"/>
+    <img src="https://img.shields.io/badge/SHELL-EMAIL-161b22?style=for-the-badge&logo=microsoft-outlook&logoColor=58a6ff" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/w0tu">
-    <img src="https://img.shields.io/badge/TERMINAL-GITHUB-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/TERMINAL-GITHUB-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub"/>
   </a>
 </p>
 
